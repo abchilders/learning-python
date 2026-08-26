@@ -1,0 +1,3 @@
+- [] learn how to use __init__.py to add reusable functions across files 
+- [] put the print_separator() file in the parent directory learning-python
+     for reuse 
